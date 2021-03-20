@@ -1,0 +1,31 @@
+.posisi{
+    margin-left: 740px;   
+}
+.box{
+    height: 200px;
+}
+.text1{
+    padding-top: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.box1{
+    justify-content: left;
+    height: 350px;
+}
+.box2{
+    height: 50px;
+    margin-top: 50px;
+}
+.teks2{
+   opacity: 100%;
+}
+
+.box3{
+    height: 200px;
+
+}
+
+.box4{
+    height: 200px;
+    margin-top: 30px;
+}
